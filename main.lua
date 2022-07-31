@@ -3,7 +3,7 @@
 -- ]]
 local font, fontSize, dtTotal, streams
 local streamDeltaTime = 100
-local updateDeltaTime = 1200
+local updateDeltaTime = 700
 local charpool = {
     "ァ", "ア", "ィ", "イ", "ゥ", "ウ", "ェ", "エ", "ォ", "オ", "カ", "ガ", "キ", "ギ", "ク", "グ", "ケ",
     "ゲ", "コ", "ゴ",
